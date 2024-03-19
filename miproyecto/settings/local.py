@@ -22,8 +22,8 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'djpro',
-        'USER': 'root',
-        'PASSWORD': '',
+        'USER': 'groque_remoto',
+        'PASSWORD': 'Chimango1275!_remoto',
         'HOST': 'localhost',
         'PORT': '3306',
     }
