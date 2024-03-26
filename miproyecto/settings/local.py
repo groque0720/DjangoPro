@@ -2,7 +2,7 @@ from .base import *
 
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://appdyv.online/']
+ALLOWED_HOSTS = ['appdyv.online/']
 
 DATABASES = {
     # 'default': {
