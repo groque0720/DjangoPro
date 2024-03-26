@@ -4,6 +4,11 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['appdyv.online']
 
+CSRF_TRUSTED_ORIGINS = [
+    "https://appdyv.online",
+    # Puedes añadir más orígenes confiables según sea necesario
+]
+
 DATABASES = {
     # 'default': {
     #     'ENGINE': 'django.db.backends.sqlite3',
