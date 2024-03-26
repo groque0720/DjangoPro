@@ -28,16 +28,6 @@ SECRET_KEY = 'django-insecure-tqd#3lx7fu^v1mu!p2f1r6px_s)51yyqg082m1i+e!1d&w$bvx
 # ALLOWED_HOSTS = []
 
 
-CORS_ALLOWED_ORIGINS = [
-    "https://appdyv.online",
-    # Otros orígenes permitidos...
-]
-
-CORS_ALLOWED_ORIGINS = [
-    "https://appdyv.online",
-    # Otros orígenes permitidos...
-]
-
 # Application definition
 
 INSTALLED_APPS = [
